@@ -13,7 +13,7 @@ package exercice3;
 
 	        Professeur p1 = new Professeur("Alami", "alami@gmail.com", s1);
 	        Professeur p2 = new Professeur("Karim", "karim@gmail.com", s1);
-	        Professeur p3 = new Professeur("Jouab", "jouab@gmail.com", s2);
+	        Professeur p3 = new Professeur("Mohamed", "jouab@gmail.com", s2);
 	        Professeur p4 = new Professeur("Hamid", "hamid@gmail.com", s2);
 
 	  
